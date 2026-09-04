@@ -7,7 +7,7 @@ about:
   head: 87aa26f
   archived: false
   latestVersion: v0.18.0
-  collectedAt: 2026-09-04T19:54:28Z
+  collectedAt: 2026-09-04T20:47:50Z
 timeline:
   created: 2021-02-07
   lastCommit: 2026-08-29
@@ -85,5 +85,93 @@ total:
   openIssue: 36
   commit: 3355
 ---
+path: /home/runner/.x-repo/github.com/wader/fq
+collectedAt: 2026-09-04T20:47:53Z
+loc:
+  Go:
+    code: 76825
+    comments: 7185
+    blanks: 9683
+    files: 338
+  Svg:
+    code: 4649
+    comments: 600
+    blanks: 0
+    files: 10
+  AsciiDoc:
+    code: 3167
+    comments: 167
+    blanks: 1145
+    files: 2
+  Xml:
+    code: 3050
+    comments: 14
+    blanks: 24
+    files: 59
+  Json:
+    code: 1363
+    comments: 0
+    blanks: 2
+    files: 9
+  Sh:
+    code: 241
+    comments: 16
+    blanks: 49
+    files: 13
+  Makefile:
+    code: 222
+    comments: 36
+    blanks: 61
+    files: 4
+  JavaScript:
+    code: 189
+    comments: 3
+    blanks: 42
+    files: 1
+  Python:
+    code: 49
+    comments: 9
+    blanks: 20
+    files: 2
+  C:
+    code: 36
+    comments: 0
+    blanks: 6
+    files: 5
+  Lua:
+    code: 31
+    comments: 1
+    blanks: 8
+    files: 2
+  Dockerfile:
+    code: 20
+    comments: 3
+    blanks: 5
+    files: 1
+  Html:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 2
+  CHeader:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 5335
+    blanks: 834
+    files: 64
+  Text:
+    code: 0
+    comments: 122
+    blanks: 12
+    files: 10
+total:
+  code: 89918
+  comments: 13495
+  blanks: 11892
+  files: 524
 ---
 
