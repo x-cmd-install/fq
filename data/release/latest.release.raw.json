@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4817183,
       "digest": "sha256:07d9407c0cde116f6d9244b5d477a4570c917fef33d6e77c46ed58a38bf5e2b3",
-      "download_count": 168,
+      "download_count": 169,
       "created_at": "2026-08-25T17:53:05Z",
       "updated_at": "2026-08-25T17:53:05Z",
       "browser_download_url": "https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_linux_amd64.tar.gz"
