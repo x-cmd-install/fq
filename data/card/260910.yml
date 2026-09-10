@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.18.0"
   latestRelease: "v0.18.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:42:18Z
+  collectedAt: 2026-09-10T16:30:34Z
 timeline:
   created: 2021-02-07
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-25
   lastPrerelease: 
 popularity:
-  star: 10594
+  star: 10593
   watcher: 51
   fork: 253
   release: 29
@@ -88,7 +88,7 @@ total:
   commit: 3365
 ---
 path: /home/runner/.x-repo/github.com/wader/fq
-collectedAt: 2026-09-10T04:42:28Z
+collectedAt: 2026-09-10T16:30:44Z
 loc:
   Go:
     code: 76879
