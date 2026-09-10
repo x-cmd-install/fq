@@ -23,11 +23,22 @@ x install fq
 - **Latest**: `v0.18.0` (2026-08-25)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 7
-- **Published**: 2026-08-25T17:54:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/wader/fq/releases/download/v0.18.0/checksums.txt) | 562 B | `other` |
+| [fq_0.18.0_linux_amd64.tar.gz](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_linux_amd64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [fq_0.18.0_linux_arm64.tar.gz](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [fq_0.18.0_macos_amd64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_macos_amd64.zip) | 4.7 MiB | `native/darwin/x64` |
+| [fq_0.18.0_macos_arm64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_macos_arm64.zip) | 4.3 MiB | `native/darwin/arm64` |
+| [fq_0.18.0_windows_amd64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_windows_amd64.zip) | 4.7 MiB | `native/win/x64` |
+| [fq_0.18.0_windows_arm64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_windows_arm64.zip) | 4.2 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 10,594 · **Forks**: 253 · **Open issues**: 92 · **Contributors**: 44
+- **Stars**: 10,593 · **Forks**: 253 · **Open issues**: 92 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -58,8 +69,8 @@ Total: **89,903** lines of code across **418** files in the top 5 languages.
 Install metadata for fq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fq.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/fq.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:42:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:30:54Z._

@@ -4,7 +4,7 @@
 
 fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 
-![fq](https://repo.x-cmd.io/fq.svg)
+![fq](https://repo.x-cmd.io/fq.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,22 @@ x install fq
 - **最新版本**: `v0.18.0` (2026-08-25)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-08-25T17:54:58Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/wader/fq/releases/download/v0.18.0/checksums.txt) | 562 B | `other` |
+| [fq_0.18.0_linux_amd64.tar.gz](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_linux_amd64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [fq_0.18.0_linux_arm64.tar.gz](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [fq_0.18.0_macos_amd64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_macos_amd64.zip) | 4.7 MiB | `native/darwin/x64` |
+| [fq_0.18.0_macos_arm64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_macos_arm64.zip) | 4.3 MiB | `native/darwin/arm64` |
+| [fq_0.18.0_windows_amd64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_windows_amd64.zip) | 4.7 MiB | `native/win/x64` |
+| [fq_0.18.0_windows_arm64.zip](https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_windows_arm64.zip) | 4.2 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 10,594 · **Fork**: 253 · **开放 issue**: 92 · **贡献者**: 44
+- **Star**: 10,593 · **Fork**: 253 · **开放 issue**: 92 · **贡献者**: 44
 
 ## 累计统计
 
@@ -62,4 +73,4 @@ fq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:42:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:30:55Z._
