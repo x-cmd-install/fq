@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4817183,
       "digest": "sha256:07d9407c0cde116f6d9244b5d477a4570c917fef33d6e77c46ed58a38bf5e2b3",
-      "download_count": 204,
+      "download_count": 207,
       "created_at": "2026-08-25T17:53:05Z",
       "updated_at": "2026-08-25T17:53:05Z",
       "browser_download_url": "https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4501820,
       "digest": "sha256:93fc660e455d2f4a64a82555b0b9406fd7bc177a5f9fe3cd638d03e883078cdd",
-      "download_count": 285,
+      "download_count": 286,
       "created_at": "2026-08-25T17:53:04Z",
       "updated_at": "2026-08-25T17:53:05Z",
       "browser_download_url": "https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_macos_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4924380,
       "digest": "sha256:b255a2f2716a25132607f235e6cb564659ad037eb8bf48d60815edd82f21758d",
-      "download_count": 201,
+      "download_count": 202,
       "created_at": "2026-08-25T17:53:04Z",
       "updated_at": "2026-08-25T17:53:04Z",
       "browser_download_url": "https://github.com/wader/fq/releases/download/v0.18.0/fq_0.18.0_windows_amd64.zip"
