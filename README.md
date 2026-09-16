@@ -14,11 +14,11 @@ x install fq
 
 ## Code insight
 
-Total: **89,904** lines of code across **418** files in the top 5 languages.
+Total: **89,902** lines of code across **418** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 76,880 | 7,187 | 9,692 | 338 |
+| Go | 76,878 | 7,186 | 9,692 | 338 |
 | Svg | 4,649 | 600 | 0 | 10 |
 | AsciiDoc | 3,167 | 167 | 1,145 | 2 |
 | Xml | 3,050 | 14 | 24 | 59 |
@@ -33,7 +33,7 @@ Total: **89,904** lines of code across **418** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.18.0` (2026-08-25)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **89,904** lines of code across **418** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1204 · **Open PRs**: 23 · **Closed issues**: 56 · **Open issues**: 37 · **Commits**: 3377
+- **Releases**: 29 · **Merged PRs**: 1207 · **Open PRs**: 21 · **Closed issues**: 56 · **Open issues**: 37 · **Commits**: 3383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 24 | 4 | 1 | 1 | 25 |
-| last60d | 2026-07-17 | 1 | 45 | 5 | 1 | 1 | 54 |
-| 90d | 2026-06-17 | 1 | 54 | 5 | 3 | 1 | 71 |
-| last180d | 2026-03-19 | 1 | 82 | 5 | 4 | 2 | 98 |
-| 360d | 2025-09-20 | 3 | 153 | 5 | 5 | 5 | 169 |
-| last720d | 2024-09-25 | 6 | 297 | 6 | 11 | 9 | 623 |
+| 30d | 2026-08-17 | 1 | 26 | 2 | 1 | 1 | 28 |
+| last60d | 2026-07-18 | 1 | 48 | 3 | 1 | 1 | 57 |
+| 90d | 2026-06-18 | 1 | 57 | 3 | 3 | 1 | 74 |
+| last180d | 2026-03-20 | 1 | 85 | 3 | 4 | 2 | 101 |
+| 360d | 2025-09-21 | 3 | 156 | 3 | 5 | 5 | 172 |
+| last720d | 2024-09-26 | 6 | 299 | 4 | 11 | 9 | 629 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for fq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:49:56Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:47:53Z._
