@@ -4,7 +4,7 @@
 
 fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 
-[![x-cmd/install — fq Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fq.svg?lang=zh)](https://x-cmd.com/install/fq)
+[![x-cmd/install — fq Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fq.svg?lang=zh)](https://x-cmd.com/install/fq)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install fq
 
 ## 流行度
 
-- **Star**: 10,596 · **Fork**: 254 · **开放 issue**: 93 · **贡献者**: 45
+- **Star**: 10,597 · **Fork**: 254 · **开放 issue**: 93 · **贡献者**: 45
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install fq
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 20 | 2 | 0 | 1 | 18 |
-| last60d | 2026-07-24 | 1 | 49 | 3 | 1 | 1 | 58 |
-| 90d | 2026-06-24 | 1 | 58 | 3 | 3 | 1 | 75 |
-| last180d | 2026-03-26 | 1 | 83 | 3 | 4 | 2 | 101 |
-| 360d | 2025-09-27 | 3 | 155 | 3 | 5 | 5 | 173 |
-| last720d | 2024-10-02 | 6 | 298 | 4 | 11 | 9 | 627 |
+| 30d | 2026-08-24 | 1 | 20 | 2 | 0 | 1 | 18 |
+| last60d | 2026-07-25 | 1 | 49 | 3 | 1 | 1 | 58 |
+| 90d | 2026-06-25 | 1 | 58 | 3 | 2 | 1 | 75 |
+| last180d | 2026-03-27 | 1 | 83 | 3 | 4 | 2 | 101 |
+| 360d | 2025-09-28 | 3 | 155 | 3 | 5 | 5 | 173 |
+| last720d | 2024-10-03 | 6 | 298 | 4 | 11 | 9 | 626 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ fq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:59:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:43:21Z._
