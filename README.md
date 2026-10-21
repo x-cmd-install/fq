@@ -33,27 +33,27 @@ Total: **89,902** lines of code across **418** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.18.0` (2026-08-25)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-20
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,615 · **Forks**: 339 · **Open issues**: 93 · **Contributors**: 44
+- **Stars**: 10,615 · **Forks**: 261 · **Open issues**: 93 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1218 · **Open PRs**: 25 · **Closed issues**: 56 · **Open issues**: 37 · **Commits**: 3405
+- **Releases**: 29 · **Merged PRs**: 1222 · **Open PRs**: 22 · **Closed issues**: 56 · **Open issues**: 37 · **Commits**: 3413
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 10 | 4 | 0 | 0 | 8 |
-| last60d | 2026-08-21 | 1 | 33 | 6 | 0 | 1 | 32 |
-| 90d | 2026-07-22 | 1 | 59 | 7 | 1 | 1 | 68 |
-| last180d | 2026-04-23 | 1 | 85 | 7 | 4 | 2 | 103 |
-| 360d | 2025-10-25 | 3 | 154 | 7 | 5 | 5 | 171 |
-| last720d | 2024-10-30 | 6 | 306 | 8 | 10 | 9 | 642 |
+| 30d | 2026-09-21 | 0 | 14 | 1 | 0 | 0 | 12 |
+| last60d | 2026-08-22 | 1 | 35 | 3 | 0 | 1 | 36 |
+| 90d | 2026-07-23 | 1 | 63 | 4 | 1 | 1 | 72 |
+| last180d | 2026-04-24 | 1 | 89 | 4 | 4 | 2 | 107 |
+| 360d | 2025-10-26 | 3 | 158 | 4 | 5 | 5 | 175 |
+| last720d | 2024-10-31 | 6 | 310 | 5 | 10 | 9 | 650 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for fq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:44:43Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:35:31Z._
