@@ -14,11 +14,11 @@ x install fq
 
 ## Code insight
 
-Total: **90,136** lines of code across **419** files in the top 5 languages.
+Total: **90,139** lines of code across **419** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 77,112 | 7,195 | 9,733 | 339 |
+| Go | 77,115 | 7,196 | 9,733 | 339 |
 | Svg | 4,649 | 600 | 0 | 10 |
 | AsciiDoc | 3,167 | 167 | 1,145 | 2 |
 | Xml | 3,050 | 14 | 24 | 59 |
@@ -33,27 +33,27 @@ Total: **90,136** lines of code across **419** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.18.0` (2026-08-25)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 10,627 · **Forks**: 257 · **Open issues**: 93 · **Contributors**: 45
+- **Stars**: 10,628 · **Forks**: 258 · **Open issues**: 93 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1227 · **Open PRs**: 21 · **Closed issues**: 57 · **Open issues**: 36 · **Commits**: 3425
+- **Releases**: 29 · **Merged PRs**: 1230 · **Open PRs**: 21 · **Closed issues**: 57 · **Open issues**: 36 · **Commits**: 3431
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 14 | 0 | 0 | 0 | 16 |
-| last60d | 2026-09-08 | 0 | 28 | 0 | 1 | 0 | 30 |
-| 90d | 2026-08-09 | 1 | 65 | 2 | 2 | 0 | 72 |
-| last180d | 2026-05-11 | 1 | 86 | 3 | 5 | 1 | 106 |
-| 360d | 2025-11-12 | 3 | 156 | 3 | 6 | 4 | 176 |
-| last720d | 2024-11-17 | 6 | 309 | 4 | 11 | 8 | 643 |
+| 30d | 2026-10-09 | 0 | 12 | 0 | 0 | 0 | 12 |
+| last60d | 2026-09-09 | 0 | 29 | 0 | 1 | 0 | 25 |
+| 90d | 2026-08-10 | 1 | 67 | 2 | 2 | 0 | 58 |
+| last180d | 2026-05-12 | 1 | 89 | 3 | 5 | 1 | 109 |
+| 360d | 2025-11-13 | 3 | 159 | 3 | 6 | 4 | 179 |
+| last720d | 2024-11-18 | 6 | 312 | 4 | 11 | 8 | 649 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for fq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:29Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:06:08Z._
