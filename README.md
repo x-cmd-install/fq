@@ -48,12 +48,12 @@ Total: **90,133** lines of code across **419** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 12 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 26 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-29 | 0 | 44 | 4 | 1 | 1 | 0 |
-| last180d | 2026-05-31 | 1 | 94 | 6 | 4 | 2 | 0 |
-| 360d | 2025-12-02 | 3 | 162 | 6 | 6 | 3 | 0 |
-| last720d | 2024-12-07 | 6 | 309 | 7 | 11 | 9 | 643 |
+| 30d | 2026-10-29 | 0 | 12 | 3 | 0 | 1 | 12 |
+| last60d | 2026-09-29 | 0 | 26 | 3 | 0 | 1 | 28 |
+| 90d | 2026-08-30 | 0 | 44 | 3 | 1 | 1 | 46 |
+| last180d | 2026-06-01 | 1 | 94 | 6 | 4 | 2 | 113 |
+| 360d | 2025-12-03 | 3 | 159 | 6 | 6 | 3 | 178 |
+| last720d | 2024-12-08 | 6 | 309 | 7 | 11 | 9 | 643 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for fq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:39:20Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:41:16Z._
